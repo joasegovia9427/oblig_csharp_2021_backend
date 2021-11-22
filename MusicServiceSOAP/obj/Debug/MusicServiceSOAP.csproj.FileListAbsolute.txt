@@ -1,0 +1,192 @@
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.dll.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Logica.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Logica.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.dll.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.CopyComplete
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.dll.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Logica.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Logica.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.dll.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.CopyComplete
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.dll.config
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\MusicServiceSOAP.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.exe
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.exe.config
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csc.rsp
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.exe
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.exe.config
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\csi.rsp
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.AppContext.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Collections.Immutable.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Console.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Globalization.Calendars.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.Compression.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.FileSystem.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Net.Http.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Net.Sockets.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Reflection.Metadata.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.ValueTuple.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XPath.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.exe
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.exe.config
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\vbc.rsp
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\VBCSCompiler.exe
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\roslyn\VBCSCompiler.exe.config
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Logica.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Logica.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Persistencia.dll.config
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.AssemblyReference.cache
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.CoreCompileInputs.cache
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.csproj.CopyComplete
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\MusicServiceSOAP\obj\Debug\MusicServiceSOAP.pdb

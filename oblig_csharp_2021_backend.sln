@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{3DA3DECF-7ADD-479B-A9E6-811D197B02C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{9FF95D4B-5E61-4EE8-B01B-17E8AAFDC4C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{B8F6C5E5-E12D-4288-9D5B-C81D22FA1624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicServiceSOAP", "MusicServiceSOAP\MusicServiceSOAP.csproj", "{0DD95D0E-3D06-4AFE-9D82-893E4046DA2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD810A25-7F9C-4294-B9F9-5638E28E29B8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicServicesREST", "MusicServicesREST\MusicServicesREST.csproj", "{7573F5EB-EBD3-419A-8D9A-7E97FB2FA960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA3DECF-7ADD-479B-A9E6-811D197B02C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA3DECF-7ADD-479B-A9E6-811D197B02C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA3DECF-7ADD-479B-A9E6-811D197B02C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA3DECF-7ADD-479B-A9E6-811D197B02C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF95D4B-5E61-4EE8-B01B-17E8AAFDC4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF95D4B-5E61-4EE8-B01B-17E8AAFDC4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF95D4B-5E61-4EE8-B01B-17E8AAFDC4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF95D4B-5E61-4EE8-B01B-17E8AAFDC4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F6C5E5-E12D-4288-9D5B-C81D22FA1624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F6C5E5-E12D-4288-9D5B-C81D22FA1624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F6C5E5-E12D-4288-9D5B-C81D22FA1624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F6C5E5-E12D-4288-9D5B-C81D22FA1624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD95D0E-3D06-4AFE-9D82-893E4046DA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD95D0E-3D06-4AFE-9D82-893E4046DA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD95D0E-3D06-4AFE-9D82-893E4046DA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD95D0E-3D06-4AFE-9D82-893E4046DA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7573F5EB-EBD3-419A-8D9A-7E97FB2FA960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7573F5EB-EBD3-419A-8D9A-7E97FB2FA960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7573F5EB-EBD3-419A-8D9A-7E97FB2FA960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7573F5EB-EBD3-419A-8D9A-7E97FB2FA960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13D44258-4DD8-4302-BAE3-B0F95B9369C8}
+	EndGlobalSection
+EndGlobal

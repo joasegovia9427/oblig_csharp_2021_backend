@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\ConsoleTest\\ConsoleTest.csproj": {}
+  },
+  "projects": {
+    "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\ConsoleTest\\ConsoleTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\ConsoleTest\\ConsoleTest.csproj",
+        "projectName": "ConsoleTest",
+        "projectPath": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\ConsoleTest\\ConsoleTest.csproj",
+        "packagesPath": "C:\\Users\\joase\\.nuget\\packages\\",
+        "outputPath": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\ConsoleTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joase\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Logica\\Logica.csproj": {
+                "projectPath": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Logica\\Logica.csproj"
+              },
+              "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Persistencia\\Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Logica\\Logica.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Logica\\Logica.csproj",
+        "projectName": "Logica",
+        "projectPath": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Logica\\Logica.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Persistencia\\Persistencia.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Persistencia\\Persistencia.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Persistencia\\Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "E:\\00GoogleDrive\\UDE\\25-Nuevas tecnologias\\ObligatorioVersionado\\oblig_csharp_2021_backend\\Persistencia\\Persistencia.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

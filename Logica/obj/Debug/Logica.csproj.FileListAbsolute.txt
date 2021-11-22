@@ -1,0 +1,36 @@
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\bin\Debug\Logica.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\bin\Debug\Logica.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.dll.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.dll.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\bin\Debug\System.Data.SqlClient.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\bin\Debug\Persistencia.dll.config
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\bin\Debug\System.Data.SqlClient.xml
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\Logica\obj\Debug\Logica.csproj.CopyComplete

@@ -1,0 +1,89 @@
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.exe
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.deps.json
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.runtimeconfig.json
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.runtimeconfig.dev.json
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ref\ConsoleTest.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Logica.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Persistencia.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Logica.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Persistencia.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.AssemblyReference.cache
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.AssemblyInfoInputs.cache
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.AssemblyInfo.cs
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.CoreCompileInputs.cache
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.CopyComplete
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ref\ConsoleTest.dll
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.pdb
+E:\00GoogleDrive\UDE\25-Nuevas tecnologias\ObligatorioVersionado\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.deps.json
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.runtimeconfig.json
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ref\ConsoleTest.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Logica.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Logica.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.CopyComplete
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ref\ConsoleTest.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.exe
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.deps.json
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.runtimeconfig.json
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ref\ConsoleTest.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\ConsoleTest.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Logica.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Logica.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.CopyComplete
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ref\ConsoleTest.dll
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.pdb
+C:\Users\Usuario\Desktop\N\UDEM\WEB_MOBILE\Repos\obligatorio\oblig_csharp_2021_backend\ConsoleTest\obj\Debug\net5.0\ConsoleTest.genruntimeconfig.cache
