@@ -1,9 +1,4 @@
 # oblig_csharp_2021_backend
-Hello From Joaco
-Las otras 2 partes son
-/oblig_csharp_2021_frontend_win
-/oblig_csharp_2021_frontend_web
-
 UDE - NuevasTech Proyecto BackEnd .net
 Primera parte del obligatorio para la materia NuevasTech con Ariel Ron.
 
